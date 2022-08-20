@@ -1,0 +1,3 @@
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/HizirOzcelikAssign3/cmake-build-debug/CMakeFiles/assign3CovidSoln.dir
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/HizirOzcelikAssign3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/HizirOzcelikAssign3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

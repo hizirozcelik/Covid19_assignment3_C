@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/HizirOzcelikAssign3/Assign3ClientApplication.c
+household.h
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/HizirOzcelikAssign3/household.h
+stdio.h
+-
+
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/HizirOzcelikAssign3/household.c
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+household.h
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/HizirOzcelikAssign3/household.h
+
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/HizirOzcelikAssign3/household.h
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/assign3CovidSoln.dir/Assign3ClientApplication.c.o CMakeFiles/assign3CovidSoln.dir/household.c.o -o assign3CovidSoln 
